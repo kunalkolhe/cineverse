@@ -40,6 +40,8 @@ const Navbar = () => {
   const { theme, setTheme } = useTheme();
 
   useEffect(() => {
+    if (!supabase) return;
+    
     supabase.auth.getSession().then(({ data: { session } }) => {
       setSession(session);
     });
@@ -96,7 +98,9 @@ const Navbar = () => {
   }, [searchQuery]);
 
   const handleLogout = async () => {
-    await supabase.auth.signOut();
+    if (supabase) {
+      await supabase.auth.signOut();
+    }
     navigate("/auth");
   };
 
