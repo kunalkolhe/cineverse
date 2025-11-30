@@ -11,7 +11,11 @@
 [![Vite](https://img.shields.io/badge/Vite-7.2-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/original/wwemzKWzjKYJFfCeiB57q3r4Bcm.png" alt="CineVerse Banner" width="600"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Welcome+to+CineVerse+%F0%9F%8E%AC;Discover+Movies+%26+TV+Shows;Track+Your+Favorites;Explore+Endless+Entertainment" alt="CineVerse Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎬_CINEVERSE-Your_Entertainment_Hub-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="CineVerse Banner"/>
 </p>
 
 **Discover. Track. Explore.**
