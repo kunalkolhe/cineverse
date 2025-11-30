@@ -4,7 +4,7 @@ if (!TMDB_API_KEY) {
   console.warn("VITE_TMDB_API_KEY is not configured. TMDB features will not work.");
 }
 
-const TMDB_BASE_URL = "/tmdb-api/3";
+const TMDB_BASE_URL = "https://api.themoviedb.org/3";
 const TMDB_IMAGE_BASE = "https://image.tmdb.org/t/p";
 
 export type TmdbListType = "trending" | "popular" | "top_rated" | "upcoming" | "now_playing";

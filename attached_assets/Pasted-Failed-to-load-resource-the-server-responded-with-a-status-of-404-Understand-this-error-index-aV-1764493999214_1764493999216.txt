@@ -1,0 +1,131 @@
+Failed to load resource: the server responded with a status of 404 ()Understand this error
+index--aVdQFWv.js:51 TMDB API error: 404 The page could not be found
+
+NOT_FOUND
+
+bom1::bkzpq-1764493852502-f3cf80e885fe
+
+ws @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 Network error fetching TMDB: Error: TMDB API error: 404
+    at ws (index--aVdQFWv.js:51:41662)
+    at async E (index--aVdQFWv.js:51:43144)
+    at async Promise.all (/index 0)
+    at async g_ (index--aVdQFWv.js:51:43316)
+ws @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 Failed to fetch TMDB data for popular: Error: TMDB API error: 404
+    at ws (index--aVdQFWv.js:51:41662)
+    at async E (index--aVdQFWv.js:51:43144)
+    at async Promise.all (/index 0)
+    at async g_ (index--aVdQFWv.js:51:43316)
+g_ @ index--aVdQFWv.js:51Understand this error
+/tmdb-api/3/tv/top_rated?api_key=89ac91ef77b46d31fd5a657337b3add1&page=1:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/tmdb-api/3/movie/top_rated?api_key=89ac91ef77b46d31fd5a657337b3add1&page=1:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/tmdb-api/3/trending/movie/week?api_key=89ac91ef77b46d31fd5a657337b3add1&page=1:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/tmdb-api/3/tv/airing_today?api_key=89ac91ef77b46d31fd5a657337b3add1&page=1:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/tmdb-api/3/movie/popular?api_key=89ac91ef77b46d31fd5a657337b3add1&page=1:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/tmdb-api/3/trending/tv/week?api_key=89ac91ef77b46d31fd5a657337b3add1&page=1:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+/tmdb-api/3/movie/now_playing?api_key=89ac91ef77b46d31fd5a657337b3add1&page=1:1  Failed to load resource: the server responded with a status of 404 ()Understand this error
+index--aVdQFWv.js:51 TMDB API error: 404 The page could not be found
+
+NOT_FOUND
+
+bom1::lq8t4-1764493852501-fcad20f528b7
+
+ws @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 Network error fetching TMDB: Error: TMDB API error: 404
+    at ws (index--aVdQFWv.js:51:41662)
+    at async E (index--aVdQFWv.js:51:43144)
+    at async Promise.all (/index 0)
+    at async g_ (index--aVdQFWv.js:51:43316)
+ws @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 Failed to fetch TMDB data for top_rated: Error: TMDB API error: 404
+    at ws (index--aVdQFWv.js:51:41662)
+    at async E (index--aVdQFWv.js:51:43144)
+    at async Promise.all (/index 0)
+    at async g_ (index--aVdQFWv.js:51:43316)
+g_ @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 TMDB API error: 404 The page could not be found
+
+NOT_FOUND
+
+bom1::xqhz5-1764493852501-9829c7ddc7c1
+
+ws @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 Network error fetching TMDB: Error: TMDB API error: 404
+    at ws (index--aVdQFWv.js:51:41662)
+    at async E (index--aVdQFWv.js:51:43144)
+    at async Promise.all (/index 1)
+ws @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 TMDB API error: 404 The page could not be found
+
+NOT_FOUND
+
+bom1::sr87t-1764493852502-d886736dfe05
+
+ws @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 Network error fetching TMDB: Error: TMDB API error: 404
+    at ws (index--aVdQFWv.js:51:41662)
+    at async E (index--aVdQFWv.js:51:43144)
+    at async Promise.all (/index 1)
+    at async g_ (index--aVdQFWv.js:51:43316)
+ws @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 Failed to fetch TMDB data for trending: Error: TMDB API error: 404
+    at ws (index--aVdQFWv.js:51:41662)
+    at async E (index--aVdQFWv.js:51:43144)
+    at async Promise.all (/index 1)
+    at async g_ (index--aVdQFWv.js:51:43316)
+g_ @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 TMDB API error: 404 The page could not be found
+
+NOT_FOUND
+
+bom1::k474w-1764493852501-616c76044348
+
+ws @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 Network error fetching TMDB: Error: TMDB API error: 404
+    at ws (index--aVdQFWv.js:51:41662)
+    at async E (index--aVdQFWv.js:51:43144)
+    at async Promise.all (/index 0)
+    at async g_ (index--aVdQFWv.js:51:43316)
+ws @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 Failed to fetch TMDB data for now_playing: Error: TMDB API error: 404
+    at ws (index--aVdQFWv.js:51:41662)
+    at async E (index--aVdQFWv.js:51:43144)
+    at async Promise.all (/index 0)
+    at async g_ (index--aVdQFWv.js:51:43316)
+g_ @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 TMDB API error: 404 The page could not be found
+
+NOT_FOUND
+
+bom1::bkzpq-1764493852502-dabdfcc8651a
+
+ws @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 Network error fetching TMDB: Error: TMDB API error: 404
+    at ws (index--aVdQFWv.js:51:41662)
+    at async E (index--aVdQFWv.js:51:43144)
+    at async Promise.all (/index 1)
+ws @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 TMDB API error: 404 The page could not be found
+
+NOT_FOUND
+
+bom1::jhphc-1764493852502-a056b85fd34d
+
+ws @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 Network error fetching TMDB: Error: TMDB API error: 404
+    at ws (index--aVdQFWv.js:51:41662)
+    at async E (index--aVdQFWv.js:51:43144)
+    at async Promise.all (/index 0)
+ws @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 TMDB API error: 404 The page could not be found
+
+NOT_FOUND
+
+bom1::bckdg-1764493852501-bccab129a295
+
+ws @ index--aVdQFWv.js:51Understand this error
+index--aVdQFWv.js:51 Network error fetching TMDB: Error: TMDB API error: 404
+    at ws (index--aVdQFWv.js:51:41662)
+    at async E (index--aVdQFWv.js:51:43144)
+    at async Promise.all (/index 1)
